@@ -1,3 +1,11 @@
+.monster-name {
+    color:red;
+}
+
+.player-name {
+    color: blue;
+}
+
 .text-center {
     text-align: center;
 }
